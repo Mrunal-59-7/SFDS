@@ -1,0 +1,145 @@
+NAME: Mrunal Khandagale
+STREAM: 8th Aug OB
+ENTERPRISE ID: mrunal.khandagale@accenture.com
+y
+file name: mrunal_khandagale_8AugOB
+_____________________________________________________________________________
+
+THEORY SECTION: For Viva Practice
+
+1. What do you mean by CRM? State the features.
+2. What is Salesforce?
+3. What is Cloud? Mention the features & advantages of cloud.
+4. Explain SAAS & PAAS.
+5. Name 5 salesforce products.
+6. Name 5 salesforce editions.
+7. What are the levels of salesforce architecture.
+8. Explain Object relationships.
+9. State differences between lookup and master-detail relationship.
+10. What you mean by allow reparenting.
+11. What is Roll up Summary?
+12. What do you mean by Lookup Filter? Write steps for applying lookup filter.
+13. Explain Regular Expression.
+14. Write down validation for mobile no, zip code and aadhar number.
+15. What is vlookup?
+16. Mention Steps to create record types.
+17. Mention steps to add images in the record.
+18. What do you mean by data security.
+19. What are the 2 ways to provide data security.
+20. What do you mean by org level security.
+21. Explain object, tab & field level security.
+22. Explain record level security 
+23. What do you mean by audit trial & mass transfer.
+24. Mention steps of approval process.
+25. Mention steps to create flow.
+26. What do you mean by data import and explain steps to import data to salesforce.
+27. What do you mean by data export and explain steps to export data from salesforce.
+28. What is report & dashboard. State the types of reports.
+_____________________________________________________________________________
+
+MCQ's SECTION: For Exam Practice
+
+1. What kind of data can be stored in cloud storage?	
+a) Email	
+b) Videos
+c) Application Data
+d) All of the Above
+Answer: 
+
+2. What is true about an Object?
+a) A table in the database; in that spreadsheet example, an object is a tab on the spreadsheet	
+b) A place where you store a value, like a name or address; using our spreadsheet example, a field would be a column on the spreadsheet	
+c) A set of fields, objects, permissions, and functionality to support a business process	
+d) We can have only  Standard objects in Salesforce
+
+3. To achieve Many to Many Relationship, Ideally how many objects will be involved?
+a) One
+b) Two 	
+c) Three	
+d) Four
+
+4. How to Customize a page's contents such as field, buttons which are appear on page?	
+a) App Builder	
+b) Page Layouts	
+c) Apex Class	
+d) All of the Above
+
+5. What is generated automatically for every record?	
+a) Api Name	
+b) Id	
+c) Custom Fields	
+d) Relationship
+
+6. In which object we will create lookup & master detail field
+a) Child
+b) Parent
+c) Its possible in both child & parent
+d) Only in standard object
+
+7. In which object record we will create roll up summary field?
+a) Child
+b) Parent
+c) Its possible in both child & parent
+d) Only in standard object
+
+8. A devepoer  has created the custom objects Candidate and Interview in Salesforce to track candidates and interviews respectively.  The company wants to track the total number of interviews a candidate has gone through on the candidate record without writing any code.Which actions should an App Builder take to accomplish this requirement?	
+a) Use a formula field on the Candidate record to show the total number of interviews.	 
+b) Use a roll-up summary field on the Candidate record to show the total number of interviews.	 
+c) Use a lookup relationship between the Candidate and Interview objects.	 
+d) Use a master-detail relationship between the Candidate and Interview objects.
+
+9. What happens when a validation rule is triggered and a record fails to meet the criteria?	
+a) The record is deleted from the database	
+b) The user is notified with an error message and the record is not saved	
+c) The user is prompted to correct the errors in the record before saving	
+d) The user is automatically logged out of Salesforce
+
+10. What is NOT a way an Administrator can control Salesforce org security via a Profile?	 
+a) Session Settings	
+b) Sharing Rules	 
+c) Login IP Ranges	
+d) Password Policies	
+e) Login Hours
+
+11. Andy’s profile has Read and Edit access to the Job object. The Organization-Wide Default for Job is ‘Public Read Only’. What access will Andy have to Job records? (Choose 2)	
+a) Andy will be able to view and edit all Job records not owned by himself	
+b) Andy will be able to view but not edit all Job records not owned by himself	
+c) Andy will be able to view and edit Job records owned by himself	
+d) Andy will not be able to view or edit Job records not owned by himself
+
+12. "What are two final actions in an approval process?
+A. Create a chatter post	
+B. Call Apex	
+C. Send an outbound message & field update	
+D. Add an email alert
+
+13. "An organization has created an application manage new hires and job positions. A custom object has been created to manage all job positions. Using an approval process they have configured the application to have the first step of the process require approvals from three different hiring managers Select the two (2) possible approval choices based on multiple approvers for an approval step."	
+a) Approve or reject based on the first response	
+b) Require unanimous approval from all selected approvers	
+c) Require majority approval from all selected approvers	
+d) Require x out of y approval from all selected approvers
+
+14. Which of the following is not the type of Report format?	
+a) Joined Report	
+b) Summary Report	
+c) Gauge Report	
+d) Matrix Report	
+e) Tabular Report
+
+15. How can you make a field mandatory? 	
+a) Check the required field box on the Page Layout	
+b) Check the required field box on the field definition	
+c) Create a Validation Rule
+d) all of the above.
+
+16. In which object record we will create lookup filter?
+a) Child
+b) Parent
+c) Its possible in both child & parent
+d) Only in standard object
+_____________________________________________________________________________
+
+MCQ's:  16 * 1 = 16 marks
+Theory: 28 * 3 = 84 marks
+total:  100 marks
+_____________________________________________________________________________
